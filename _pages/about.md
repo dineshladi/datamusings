@@ -4,10 +4,21 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hello world!
+This is Dinesh. I am a Data Scientist.
+
+### Interests
+* Data Science/Visualization
+* Cricket 
+* Cooking
+* Startups
+
+### Tools
+* Python
+* R
+* SQL
+* Unix
+
+
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
