@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hello world!
-This is Dinesh. I am a Data Scientist.
+This is Dinesh. I am a Data Scientist based in Bangalore,India. 
 
 ### Interests
 * Data Science/Visualization
@@ -16,9 +16,11 @@ This is Dinesh. I am a Data Scientist.
 ### Tools
 * Python
 * R
+* R-Shiny
 * SQL
-* Unix
+* Bash
+* Apache Spark
 
 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This website is powered by **[fastpages](https://github.com/fastai/fastpages)**.
