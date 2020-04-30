@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "Hello world! This is Dinesh. I am a Data Scientist based in Bangalore,India. . Interests . Data Science/Visualization | Cricket | Cooking | Startups | . Tools . Python | R | R-Shiny | SQL | Bash | Apache Spark | . This website is powered by fastpages. .",
+          "content": "Hello all! This is Dinesh. I am a Data Scientist based in Bangalore,India. I use this blog to documents things that I learn or things that I need to look up regularly. See my resume here . Interests . Data Science/Visualization | Machine Learning | Cricket | Cooking | Startups | . Tools . Python | Keras | R | R-Shiny | SQL | Bash | Hive | Spark | . This website is powered by fastpages. .",
           "url": "https://dineshladi.github.io/datamusings/about/",
           "relUrl": "/about/",
           "date": ""
